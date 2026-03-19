@@ -96,9 +96,3 @@ model = load_model("customcnn_model.h5");     input_size = (192, 192)
 - **Hand Detection:** MediaPipe
 - **Modeling:** TensorFlow / Keras (Custom CNN, MobileNetV2, ResNet50)
 - **App:** Streamlit, OpenCV
-
----
-
-## License
-
-MIT License
